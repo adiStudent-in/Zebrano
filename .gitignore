@@ -1,0 +1,9 @@
+# Local verification / agent artifacts
+.claude/
+.verify/
+.verify-mp/
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
